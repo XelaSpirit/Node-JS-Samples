@@ -1,10 +1,10 @@
 //Author: Alex Morse
 //Date created: 6 / 21 / 2020
-//License: MIT
 //Description: A small program to test the mongodb package and show some of it's simple functionality that will be needed for my Large Project in COP4331C.
 //             There's plenty of comments explaining every bit of code so this should make using the mongodb package very easy to understand.
 //This was created using mongodb's tutorial and some light googling - https://mongodb.github.io/node-mongodb-native/3.5/tutorials/crud/
 //Note that this doesn't contain everything from that tutorial, just some basic sample code I created to help me understand it.
+//For testing I used this code, uncommented the lines I was testing, and had mongodb open in my browser so I could quickly refresh and see the changes in the database.
 
 //Include mongodb client from mongodb package.
 //Make sure to run 'npm install mongodb' in the directory this project is in for this to work.
